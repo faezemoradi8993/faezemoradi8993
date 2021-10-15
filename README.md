@@ -1,12 +1,10 @@
-### Hi there 👋 I am Faeze moradi 😌
+### Hi there , I am Faeze moradi 😌
+![](https://s4.uupload.ir/files/img_20211014_194137_015_8mxk.jpg)
 
-
-Talking about Personal Stuffs:
-- 🔭 I’m currently open to work and learning react js
-- ⚡ please Show some ❤️ by starring some of the repositories!
-- 🌞 Also drop a ⭐ if you like my profile!
--  👭 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
-- 📫 How to reach me: faeze.moradi8993@gmail.com
+about Personal Stuffs:
+- I’m currently open to work and learning react js
+- I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
+- How to reach me: faeze.moradi8993@gmail.com
 #
 ### tech staks :
 ### Programming Languages
@@ -29,6 +27,8 @@ Talking about Personal Stuffs:
 - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 - ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 #
+### please Show some ❤️ by starring some of the repositories!
+### Also drop a ⭐ if you like my profile!
 
 
 
