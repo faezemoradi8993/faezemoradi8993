@@ -1,6 +1,8 @@
 ### Hi there , I am Faeze moradi 😌
-![](https://s4.uupload.ir/files/img_20211014_194137_015_8mxk.jpg)
-
+![](https://s4.uupload.ir/files/whatsapp_image_2021-10-17_at_1.05.31_am_kdls.jpeg)
+### GitHub Statu 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faezemoradi8993&show_icons=true&theme=dark)
+#
 about Personal Stuffs:
 - I’m currently open to work and learning react js
 - I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
@@ -29,6 +31,12 @@ about Personal Stuffs:
 #
 ### please Show some ❤️ by starring some of the repositories!
 ### Also drop a ⭐ if you like my profile!
-
+## contact me:
+<a href="https://www.instagram.com/faezemoradi_developer/">
+<img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a> 
+<a href="https://www.linkedin.com/in/faeze-moradi-1a81581b4/">
+<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 
