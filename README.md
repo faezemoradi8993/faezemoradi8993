@@ -2,8 +2,7 @@
 
 ### Hi there , I am Faeze moradi 😌
 <div>
-<img align="right" alt="working" src="https://s4.uupload.ir/files/whatsapp_image_2021-10-17_at_1.05.31_am_ndqa.jpeg" width="200" height="200" />
-
+<img align="right" alt="working" src="https://s4.uupload.ir/files/whatsapp_image_2021-10-17_at_1.05.31_am_ndqa.jpeg" width="150" height="150" />
 <br>
   
  ### about Personal Stuffs:
