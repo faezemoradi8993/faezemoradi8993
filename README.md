@@ -23,7 +23,17 @@ Hi there , I am Faeze moradi 😌
   
   ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=faezemoradi8993&color=blueviolet&style=flat)
   
+   <br>
+  
+   please Show some ❤️ by starring some of the repositories!
+  
+   
+  
+ Also drop a ⭐ if you like my profile!
+  
   <br>
+  
+  
   
   ```text
   
@@ -155,19 +165,7 @@ Hi there , I am Faeze moradi 😌
       
 <div align="center">
   
-#
-  
-  <br>
-  
-   please Show some ❤️ by starring some of the repositories!
-  
-   
-  
- Also drop a ⭐ if you like my profile!
-  
-  
-  
-#
+
 
 </div>
 
