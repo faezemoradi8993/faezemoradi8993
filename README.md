@@ -79,6 +79,8 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </p>
+  
+<br>
 
  Frameworks, Platforms and Libraries 
  
@@ -89,6 +91,8 @@
  <img src='https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white'/>
  <img src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white'/>
  </p> 
+  
+<br>
  
  Design 
  
@@ -96,13 +100,17 @@
  <img src='https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white'/>
  <img src='https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6'/>
 </p>
+  
+<br>  
       
  IDEs/Editors
  
 <p>
  <img src='https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white'/>
 </p>
-           
+    
+ <br> 
+  
  Version Control 
  
 <p>
