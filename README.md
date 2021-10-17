@@ -1,14 +1,29 @@
 
-
+<br>
+<div  align="center" >
+  
 ### Hi there , I am Faeze moradi 😌
-<div>
-<img align="right" alt="working" src="https://s4.uupload.ir/files/whatsapp_image_2021-10-17_at_1.05.31_am_ndqa.jpeg" width="150" height="150" />
+
 <br>
   
- ### about Personal Stuffs:
-- I’m currently open to work and learning react js
-- I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
-- How to reach me: faeze.moradi8993@gmail.com
+</div>
+
+
+<div  align="center" >
+<img align="top" alt="avatar" src="https://s4.uupload.ir/files/whatsapp_image_2021-10-17_at_1.05.31_am_ndqa.jpeg" width="250" height="250" />
+<br>
+ 
+  #
+  
+ ### about Personal Stuffs
+  
+  <br>
+  
+ I’m currently open to work and learning react js
+  
+ I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
+  
+ How to reach me: faeze.moradi8993@gmail.com
   
   <br>
   
@@ -18,7 +33,9 @@
   
   #
   
-### contact me:
+### contact me
+  
+  <br>
   
 <a href="https://www.instagram.com/faezemoradi_developer/">
 <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
@@ -29,17 +46,20 @@
   </div>
   
 #
+   
+  <div align="center">
     
-  <p align="center" > GitHub Status </p>
-
-  <p align="center"> 
+   ### GitHub Status 
+    
+<br>
     
 <img src="https://github-readme-stats.vercel.app/api?username=faezemoradi8993&show_icons=true&theme=dark" />
 <br>
 <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faezemoradi8993&theme=github_dark" />
-</p>
+
  </div>
+    </div>
  
 #
  
