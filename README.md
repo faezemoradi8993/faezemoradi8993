@@ -1,9 +1,14 @@
 
 <br>
+
 <div  align="center" >
   
-### Hi there , I am Faeze moradi 😌
-
+```text
+  
+Hi there , I am Faeze moradi 😌
+  
+```
+  
 <br>
   
 </div>
@@ -13,9 +18,14 @@
 <img align="top" alt="avatar" src="https://s4.uupload.ir/files/whatsapp_image_2021-10-17_at_1.05.31_am_ndqa.jpeg" width="250" height="250" />
 <br>
  
-  #
+   <br>
+   <br>
   
- ### about Personal Stuffs
+  ```text
+  
+  about Personal Stuffs
+  
+  ```
   
   <br>
   
@@ -31,9 +41,13 @@
 
 <div align="center">
   
-  #
   
-### contact me
+
+  ```text
+  
+   contact me
+  
+  ```
   
   <br>
   
@@ -45,11 +59,17 @@
 </a>   
   </div>
   
-#
+  <br>
    
   <div align="center">
     
-   ### GitHub Status 
+  
+    
+  ```text
+    
+  GitHub Status 
+    
+   ```
     
 <br>
     
@@ -57,19 +77,25 @@
 <br>
 <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faezemoradi8993&theme=github_dark" />
+    
+
 
  </div>
     </div>
  
-#
+
  
  <div align="center">
   
    <br>
   
-  ### My Skills
+  ```text
   
-   <br>
+  My Skills
+  
+  ```
+  
+   
    <br>
 
  Programming Languages
@@ -121,12 +147,19 @@
      
   </div>
   
-#
+ <br>
       
 <div align="center">
   
-### please Show some ❤️ by starring some of the repositories!
-### Also drop a ⭐ if you like my profile!
+```text
+  
+   please Show some ❤️ by starring some of the repositories!
+  
+   
+  
+ Also drop a ⭐ if you like my profile!
+  
+ ```
 
 </div>
 
