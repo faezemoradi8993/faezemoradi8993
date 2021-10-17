@@ -155,7 +155,9 @@ Hi there , I am Faeze moradi 😌
       
 <div align="center">
   
-```text
+#
+  
+  <br>
   
    please Show some ❤️ by starring some of the repositories!
   
@@ -163,7 +165,9 @@ Hi there , I am Faeze moradi 😌
   
  Also drop a ⭐ if you like my profile!
   
- ```
+  
+  
+#
 
 </div>
 
