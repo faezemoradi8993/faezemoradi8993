@@ -27,7 +27,6 @@ Hi there , I am Faeze moradi 😌
   
    please Show some ❤️ by starring some of the repositories!
   
-   
   
  Also drop a ⭐ if you like my profile!
   
