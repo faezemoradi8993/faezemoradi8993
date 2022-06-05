@@ -86,7 +86,8 @@ Hi there , I am Faeze moradi 😌
     
 <br>
     
-<img src="https://github-readme-stats.vercel.app/api?username=faezemoradi8993&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=faezemoradi8993&show_icons=true&theme=dark"  height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faezemoradi8993&layout=compact&theme=algolia" height="180" />
 <br>
 <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faezemoradi8993&theme=github_dark" />
