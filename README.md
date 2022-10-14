@@ -42,8 +42,7 @@ Hi there , I am Faeze moradi 😌
   
   <br>
   
- I’m currently open to work and learning react js
-  
+ 
  I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
   
  How to reach me: faeze.moradi8993@gmail.com
