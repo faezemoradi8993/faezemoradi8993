@@ -84,12 +84,22 @@ Hi there , I am Faeze moradi 😌
    ```
     
 <br>
-    
+   <a href="https://wakatime.com"><img height="350" src="https://wakatime.com/share/@faezemoradi8993/2f1a6c75-2eae-4aab-bbbd-5c532aff9546.png" /></a>
+   <a href="https://wakatime.com"><img height="350" src="https://wakatime.com/share/@faezemoradi8993/8ce6d27d-2ab1-4876-8aa8-683eba2cd02f.png" /></a>
+<br>
+<br>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@faezemoradi8993/8d0299f9-0315-4da8-81b9-9559e08a4daa.png" /></a>
+<br>
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=faezemoradi8993&show_icons=true&theme=dark"  height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faezemoradi8993&layout=compact&theme=algolia" height="180" />
 <br>
 <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faezemoradi8993&theme=github_dark" />
+<br>
+<br>
+<a href="https://wakatime.com"><img height="350" src="https://wakatime.com/share/@faezemoradi8993/263a8d62-fc81-4820-9a4d-48a70e21a82e.png" /></a>
+<br>
     
 
 
