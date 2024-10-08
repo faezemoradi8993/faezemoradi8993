@@ -5,7 +5,7 @@
   
 ```text
   
-Hi there , I am Faeze moradi 😌
+Hi there , I am Faeze moradi 
   
 ```
   
