@@ -1,180 +1,94 @@
-
-<br>
-
-<div  align="center" >
-  
-```text
-  
-Hi there , I am Faeze moradi 
-  
-```
-  
-<br>
-  
-</div>
-
-
-<div  align="center" >
-<img align="top" alt="avatar" src="https://s4.uupload.ir/files/whatsapp_image_2021-10-17_at_1.05.31_am_ndqa.jpeg" width="250" height="250" />
-<br>
- 
-   
-   
-  
-  ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=faezemoradi8993&color=blueviolet&style=flat)
-  
-   <br>
-  
-   please Show some ❤️ by starring some of the repositories!
-  
-  
- Also drop a ⭐ if you like my profile!
-  
-  <br>
-  
-  
-  
-  ```text
-  
-  about Personal Stuffs
-  
-  ```
-  
-  <br>
-  
- 
- I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
-  
- How to reach me: faeze.moradi8993@gmail.com
-  
-  <br>
-  
-
-
 <div align="center">
+  <img align="top" alt="avatar" src="https://s4.uupload.ir/files/whatsapp_image_2021-10-17_at_1.05.31_am_ndqa.jpeg" width="250" height="250" style="border-radius: 50%;" />
   
+  <h1>Hi there, I'm Faeze Moradi 👋</h1>
   
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=faezemoradi8993&color=blueviolet&style=flat-square" alt="profile views" /> 
+  </p>
 
-  
-  
-   contact me
-  
- 
-  
-  <br>
-  
-<a href="https://www.instagram.com/faezemoradi_developer/">
-<img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a> 
-<a href="https://www.linkedin.com/in/faeze-moradi-1a81581b4/">
-<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>   
-  </div>
-  
-  <br>
-   
-  <div align="center">
-    
-  
-    
-  ```text
-    
-  GitHub Status 
-    
-   ```
-    
-<br>
-   <a href="https://wakatime.com"><img height="350" src="https://wakatime.com/share/@faezemoradi8993/2f1a6c75-2eae-4aab-bbbd-5c532aff9546.png" /></a>
-   <a href="https://wakatime.com"><img height="350" src="https://wakatime.com/share/@faezemoradi8993/8ce6d27d-2ab1-4876-8aa8-683eba2cd02f.png" /></a>
-<br>
-<br>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@faezemoradi8993/8d0299f9-0315-4da8-81b9-9559e08a4daa.png" /></a>
-<br>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=faezemoradi8993&show_icons=true&theme=dark"  height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faezemoradi8993&layout=compact&theme=algolia" height="180" />
-<br>
-<br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faezemoradi8993&theme=github_dark" />
-<br>
-<br>
-<a href="https://wakatime.com"><img height="350" src="https://wakatime.com/share/@faezemoradi8993/263a8d62-fc81-4820-9a4d-48a70e21a82e.png" /></a>
-<br>
-    
+  <p>I'm a passionate frontend developer who loves connecting with different people. If you want to say hi, I'll be happy to meet you! 😊</p>
 
+  <h2>📫 How to reach me</h2>
+  
+  <p>
+    <a href="mailto:faeze.moradi8993@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.instagram.com/faezemoradi_developer/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://www.linkedin.com/in/faeze-moradi-1a81581b4/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
 
- </div>
-    </div>
- 
+  <h2>🛠️ My Skills</h2>
 
- 
- <div align="center">
-  
-   <br>
-  
-  ```text
-  
-  My Skills
-  
-  ```
-  
-   
-   <br>
+  <h3>Core Frontend Technologies</h3>
+  <p>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  </p>
 
- Programming Languages
- 
-<p>
- <img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white'/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-</p>
-  
-<br>
+  <h3>Frontend Frameworks and Libraries</h3>
+  <p>
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  </p>
 
- Frameworks, Platforms and Libraries 
- 
-<p>
- <img src='(https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white'/>
- <img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB'/>
-  <img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'/>
- <img src='https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white'/>
- <img src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white'/>
- </p> 
-  
-<br>
- 
- Design 
- 
- <p>
- <img src='https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white'/>
- <img src='https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6'/>
-</p>
-  
-<br>  
-      
- IDEs/Editors
- 
-<p>
- <img src='https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white'/>
-</p>
-    
- <br> 
-  
- Version Control 
- 
-<p>
- <img src='https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white'/>
- <img src='https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white'/>
- <img src='https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white'/>
- </p>
-     
-  </div>
-  
- <br>
-      
-<div align="center">
-  
+  <h3>UI Frameworks</h3>
+  <p>
+    <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="Material-UI" />
+    <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="Ant Design" />
+  </p>
 
+  <h3>State Management</h3>
+  <p>
+    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+    <img src="https://img.shields.io/badge/context--api-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Context API" />
+  </p>
 
+  <h3>Data Fetching and Management</h3>
+  <p>
+    <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" alt="React Query" />
+  </p>
+
+  <h3>Styling and Design</h3>
+  <p>
+    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" />
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
+  </p>
+
+  <h3>APIs</h3>
+  <p>
+    <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" alt="REST API" />
+  </p>
+
+  <h3>Version Control</h3>
+  <p>
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  </p>
+
+  <h3>IDEs/Editors</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+  </p>
+
+  <h2>📊 GitHub Stats</h2>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=faezemoradi8993&show_icons=true&theme=dark" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faezemoradi8993&layout=compact&theme=algolia" height="180" alt="Top Languages" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faezemoradi8993&theme=github_dark" alt="Profile Details" />
+
+  <h2>⏱️ WakaTime Stats</h2>
+
+  <img height="350" src="https://wakatime.com/share/@faezemoradi8993/2f1a6c75-2eae-4aab-bbbd-5c532aff9546.png" alt="WakaTime Weekly Stats" />
+  <img height="350" src="https://wakatime.com/share/@faezemoradi8993/8ce6d27d-2ab1-4876-8aa8-683eba2cd02f.png" alt="WakaTime Language Stats" />
+
+  <p>If you like my profile, please consider giving it a ⭐!</p>
 </div>
-
